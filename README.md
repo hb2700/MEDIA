@@ -6,7 +6,7 @@
 
 ## EN — About the Project
 
-**MEDIA** is an independent cultural platform and print magazine built by a team of three students in France. We created it with a simple conviction: art and culture shouldn't be locked behind elitist doors or reduced to 15-second algorithmic trends. 
+**FRAME** is an independent cultural platform and print magazine built by a team of three students in France. We created it with a simple conviction: art and culture shouldn't be locked behind elitist doors or reduced to 15-second algorithmic trends. 
 
 Our goal is to document contemporary creativity across all its forms—from underground music and visual arts to independent fashion, cinema, and design—speaking directly to the 18–25 generation.
 
@@ -22,7 +22,7 @@ Currently in pre-launch (2026–2027). We are finalizing our inaugural print iss
 
 ## FR — À propos du projet
 
-**MEDIA** est un média culturel indépendant et un magazine papier fondé par une équipe de trois étudiants. Le projet est né d'un constat simple : aujourd'hui, la culture est souvent coincée entre un journalisme d'art élitiste et des formats ultra-rapides dictés par les algorithmes. 
+**FRAME** est un média culturel indépendant et un magazine papier fondé par une équipe de trois étudiants. Le projet est né d'un constat simple : aujourd'hui, la culture est souvent coincée entre un journalisme d'art élitiste et des formats ultra-rapides dictés par les algorithmes. 
 
 Notre ambition est de créer un média libre qui explore toutes les formes d'art — musique underground, arts visuels, mode indépendante, cinéma, design — avec un vrai fond éditorial, pensé par et pour les 18–25 ans.
 
